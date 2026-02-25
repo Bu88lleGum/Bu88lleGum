@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently studing in dual degree progarm with University of arizona<br>🤝 I’m looking for help with building my github page<br>🌱 I’m currently learning Computer Science
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kostya Permin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kostya.permin2007@gmail.com) 
